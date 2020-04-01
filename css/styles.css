@@ -1,3 +1,6 @@
+body{
+  background-color: blue;
+}
 h1{
   color: red;
   font-size: 200px;
@@ -24,5 +27,5 @@ img:hover{
 
 /*********** ID SELECTORS ***********/
 #heading{
-  color: blue;
+  color: white;
 }
