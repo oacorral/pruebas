@@ -28,15 +28,28 @@ a {
   color: #11999e;
 }
 
+hr{
+  border-top: dotted;
+  border-bottom: none;
+  border-left: none;
+  width: 6%;
+  border-width: 7px;
+  border-color: #eaf6f6;
+}
+
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #eaf6f6;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container {}
 
-.bottom-container {}
+.bottom-container {
+  background-color: #66bfbf;
+  color: #eaf6f6;
+  padding: 30px 0;
+}
 
 .poli {
   text-decoration: underline;
@@ -71,4 +84,20 @@ a {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.btn {
+  margin: 60px auto;
+	background-color:#66bfbf;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:sans-serif;
+	font-weight:bold;
+	padding:20px 20px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#66bfFf;
 }
