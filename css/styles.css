@@ -61,7 +61,14 @@ a {
   line-height: 2;
 }
 
-.teacher, .internet{
+.teacher{
   width: 25%;
   float: left;
+  margin-right: 30px;
+}
+
+.internet{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
