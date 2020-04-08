@@ -86,6 +86,10 @@ hr{
   margin-left: 30px;
 }
 
+.footer-link{
+  margin: 0 2%;
+}
+
 .btn {
   margin: 60px auto;
 	background-color:#66bfbf;
